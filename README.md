@@ -152,14 +152,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="1440" alt="16" src="https://github.com/user-attachments/assets/d4a8684c-c596-4d5e-b31c-f05502a18d89">
+<img width="1440" alt="16" src="https://github.com/user-attachments/assets/44282b16-679b-4317-aa78-7ca4bd0b9629">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1440" alt="17" src="https://github.com/user-attachments/assets/4c1656b2-9f71-4dfd-aa07-6766ad180db3">
+</p>
+<p>
+Open Windows Firewall> Inbound Rules> Expand the windoe so you can read more options at the top> Click Protocol> Right click on Echo request ICMPv4 and click Allow on both.
 </p>
 <br />
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="18" src="https://github.com/user-attachments/assets/3e3213ac-5663-4b63-a9a9-ebf07d74dcf2">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
